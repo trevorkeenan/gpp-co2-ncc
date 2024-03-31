@@ -1,6 +1,6 @@
 # GPP-CO2
 ## Overview
-This repository contains analysis and plotting scripts to reproduce the emergent constraint results presented in:
+This repository contains data and scripts underlying the results presented in:
 
 Keenan et al. 2023: A constraint on historic growth in global photosynthesis due to increasing CO2.  
 https://www.nature.com/articles/s41558-023-01867-2
