@@ -14,7 +14,8 @@ behind the analysis.
  ./data/
  
  	dataFile.mat contains the underlying data for the analysis, in particular 
- 	the long term GPP products both with and without a CO2 effect on photosynthetic light-use efficiency. 
+ 	the long term GPP products both with and without a CO2 effect 
+ 	on photosynthetic light-use efficiency. 
 
 ./functions contains multiple analysis dependencies.
 
