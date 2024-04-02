@@ -9,7 +9,7 @@
 % available online at www.eoas.ubc.ca/~rich/map.html.
 
 
-clear all
+clearvars
 close all
 
 saveFigures=0; % set to 1 to save figures
